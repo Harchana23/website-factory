@@ -210,7 +210,7 @@ npm run test:e2e                   # Playwright a11y + visual (hits PROD via PW_
 
 ## Ownership
 
-Internal **CyberG7** project — built and maintained by [@Cyberg7tech](https://github.com/Cyberg7tech). All rights reserved. Not open for external contributions; issues and questions welcome.
+Internal **CyberG7** project — built and maintained by [@CyberG7-org](https://github.com/CyberG7-org). All rights reserved. Not open for external contributions; issues and questions welcome.
 
 
 ## 📸 Screenshots
